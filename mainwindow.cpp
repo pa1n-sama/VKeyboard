@@ -4,7 +4,7 @@
 #include <QKeyEvent>
 #include <string.h>
 #include <QTextCursor>
-#include <clip/clip.h>
+#include "clip.h"
 #include <QString>
 
 
